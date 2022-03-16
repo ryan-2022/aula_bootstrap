@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+    font: 30px arial;
+}
+.navbar-collapse {
+    background-color: aqua ;
+}
+.navbar-nav {
+    background-color: aqua;
+
+}
+.navbar { background-color: black;
+}
+.quem-somos{
+    background-color: greenyellow;
+    color: white;
+
+}
+.margin{
+padding-top: 40px;
+padding-bottom: 20px;
+}
+.parceiros {
+    background-color: yellowgreen;
+    color: white;
+}
+.bg-footer {background-color: blue;
+    color: red;}
